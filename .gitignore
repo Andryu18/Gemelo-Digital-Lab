@@ -1,0 +1,24 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]serSettings/
+.vscode/
+.vs/
+
+# Visual Studio and Unity project files (Unity regenerates them)
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+
+# Blender backups and local work files
+*.blend1
+Informe_IEEE/*.aux
+Informe_IEEE/*.log
+Informe_IEEE/*.out
+Informe_IEEE/main.pdf
